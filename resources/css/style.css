@@ -6,31 +6,31 @@ body {
 }
 
 h1 {
+  display: block;
   font-size: 50px;
   font-weight: normal;
 }
 
 h2 {
+  display: block;
   font-size: 42px;
   font-weight: normal;
 }
 
 a {
+  display: block;
   color: aquamarine;
   font-size: 16px;
 }
 
 p {
+  display: block;
   font-size: 21px;
   color: gray;
 }
 
-header {
-
-}
-
-.main {
-
+.phone-icon {
+  margin-top: 30px;
 }
 
 footer {
